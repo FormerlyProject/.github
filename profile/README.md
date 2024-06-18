@@ -1,12 +1,6 @@
-## Hi there 👋
+![Formerly.cc](https://forum.formerly.cc/data/assets/logo/fullcolor-ondark.svg)
+# The Formerly Project
+### Skill Specialists since 2022
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The Formerly Project is creating the best skill-enhancing software for online games. Join us on our journey to globalhood.<br>
+[Visit our website](https://formerly.cc) or [visit our forum](https://forum.formerly.cc)
