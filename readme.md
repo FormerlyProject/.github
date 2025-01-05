@@ -7,6 +7,6 @@ The Formerly Project is creating the best skill-enhancing software for online ga
 
 ## Current Projects
 #### Formerly Project for CS2
-A very basic work in progress cheat for Counter-Strike: 2
+A very basic work-in-progress cheat for Counter-Strike: 2
 #### Aldi HvH
-A discussion platform for HvH in popular video games
+A discussion platform for HvH in popular video games. [Visit the forum here](https://forum.aldihvh.cc/)
