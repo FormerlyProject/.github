@@ -1,4 +1,4 @@
-![Formerly.cc](https://forum.formerly.cc/data/assets/logo/fullcolor-ondark.svg)
+![Formerly.cc](https://raw.githubusercontent.com/FormerlyProject/.github/refs/heads/main/fullcolor-ondark.svg)
 # The Formerly Project
 ### Skill Specialists since 2022
 
